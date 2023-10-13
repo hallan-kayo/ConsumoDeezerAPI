@@ -1,0 +1,13 @@
+package com.deezerAPI;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DeezerApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
